@@ -5,7 +5,6 @@
 <a href="https://www.youtube.com/c/almightycodez" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Badge" height="25"></a>&nbsp;
 <a href="https://www.instagram.com/a1mightynan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
-## console.log("hello world!")
 ```js
 function nan() {
   let NaN = document.querySelector("#almightynan");
@@ -20,7 +19,7 @@ function nan() {
 ```
 
 ## About me
-📫&nbsp;Reach me [almightynan@gmail.com](mailto:almightynan@gmail.com)
+📫&nbsp;・&nbsp;Reach me [almightynan@gmail.com](mailto:almightynan@gmail.com)
 
 ## Tech Stack
 <img src="https://img.shields.io/badge/Bash-05122A?style=flat&logo=gnu-bash" alt="bash Badge" height="25">&nbsp;
