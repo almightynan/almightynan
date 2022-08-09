@@ -6,7 +6,18 @@
 <a href="https://www.instagram.com/a1mightynan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
 
 ## console.log("hello world!")
-16, Computer Science student from India.
+```js
+function nan() {
+  let NaN = document.querySelector("#almightynan");
+
+  if (isNaN(NaN.value) == true) {
+  console.log(`AlmightyNan == NaN 😪`);
+  }
+  else if (isNaN(NaN.value) == false){
+    console.log("This isn't possible!");
+  }
+}
+```
 
 ## About me
 📫&nbsp;Reach me [almightynan@gmail.com](mailto:almightynan@gmail.com)
