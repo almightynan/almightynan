@@ -8,7 +8,7 @@
 ```js
 const nan = {
   Name: "AlmightyNan",
-  Age = 16,
+  Age: = 16,
   Occupation: "Student",
   Skills : "JavaScript",
   is_NaN: true
@@ -29,6 +29,6 @@ const nan = {
 
 ## GitHub Analytics
 <div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlmightyNan&theme=default&show_icons=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmightyNan&theme=default&layout=compact&langs_count=5">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlmightyNan&theme=dark&show_icons=true&count_private=true">
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmightyNan&theme=dark&layout=compact&langs_count=5">
 </div>
