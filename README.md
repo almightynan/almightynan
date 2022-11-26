@@ -20,7 +20,7 @@ const nan = {
 📫&nbsp;・&nbsp;Reach me [almightynan@gmail.com](mailto:almightynan@gmail.com)
 
 ## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://almightynan.is-a.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,js,ts,vue,nodejs,linux,mongodb,mysql,sqlite,bash,css&theme=dark)](https://almightynan.is-a.dev)
 
 ## GitHub Analytics
 <div>
