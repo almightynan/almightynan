@@ -8,9 +8,9 @@
 ```js
 const nan = {
   Name: "AlmightyNan",
-  Age: = 16,
+  Age: 16,
   Occupation: "Student", "Developer",
-  Skills: "Useless", "Stupid",
+  Skills: "NextJS", "TailwindCSS", "ReactJS", "MongoDB",
   Languages : "JavaScript", "HTML", "Python", "Shell", "TypeScript",
   is_NaN: true
 };
