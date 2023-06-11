@@ -1,26 +1,58 @@
-# AlmightyNan
-<a href="https://www.github.com/almightynan" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=flat&logo=github&logoColor=white" alt="GitHub Badge" height="25"></a>&nbsp;
-<a href="https://www.twitch.tv/almightynan" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=flat&logo=twitch&logoColor=white" alt="Twitch Badge" height="25"></a>&nbsp;
-<a href="https://twitter.com/almightynan" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white" alt="Twitter Badge" height="25"></a>&nbsp;
-<a href="https://www.youtube.com/c/almightycodez" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white" alt="YouTube Badge" height="25"></a>&nbsp;
-<a href="https://www.instagram.com/a1mightynan" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram Badge" height="25"></a>&nbsp;
+[![Hello, world!](https://readme-typing-svg.demolab.com?font=Consola&pause=900&color=00F754&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hello+world!+I'm+AlmightyNan)](https://git.io/typing-svg)
 
-```js
-const nan = {
-  Name: "AlmightyNan",
-  Age: 16,
-  Occupation: "Student", "Developer",
-  Skills: "NextJS", "TailwindCSS", "ReactJS", "MongoDB",
-  Languages : "JavaScript", "HTML", "Python", "Shell", "TypeScript",
-  is_NaN: true
-};
+```ts
+class AlmightyNan {
+  public usernames: Record<string, string>;
+  public age: number;
+  public occupation: Record<string, string>;
+  public mostUsedLanguages: string[];
+  public frameworks: string[];
+  public website: string[];
+  public projects: string[];
+  public isNaN: boolean;
+
+  constructor() {
+    this.usernames = ['AlmightyNan', 'a1mightynan'];
+    this.age = 16;
+    this.occupation = ['Student', 'Developer']
+    this.mostUsedLanguages = ['JavaScript', 'TypeScript', 'Python', 'Bash', 'HTML'];
+    this.frameworks = ['React', 'Next.js', 'Vue.js'];
+    this.website = 'almightynan.cc';
+    this.projects = 'harmony.almightynan.cc';
+    this.isNaN = true;
+  }
+}
 ```
 
-## About me
-📫&nbsp;・&nbsp;Reach me [almightynan@gmail.com](mailto:almightynan@gmail.com)
+<h1 align="center">
+Languages that I use
+</>
 
-## Tech Stack
-[![My Skills](https://skillicons.dev/icons?i=html,js,ts,vue,nodejs,linux,mongodb,mysql,sqlite,bash,css&theme=dark)](https://almightynan.is-a.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,ts,py,bash,html,css,rust" />
+  </a>
+</p>
+
+<h1 align="center">
+Libraries/frameworks
+</>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,express,postgres,prisma" />
+  </a>
+</p>
+
+<h1 align="center">
+Skills
+</>
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,grafana,mongo,firebase,,git" />
+  </a>
+</p>
 
 ## GitHub Analytics
 <div>
