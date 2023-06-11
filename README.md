@@ -4,6 +4,13 @@
   </a>
 </p>
 
+---
+
+<p align='center'>
+  I'm a backend developer & currently learning about Web3 features. I also develop Discord bots sometimes, you can DM me AlmightyNan#0608 on Discord.
+  Currently working on Harmony. A discord bot which can redefine your music experience on Discord. Give it a try!
+</p>
+  
 ```ts
 class AlmightyNan {
   public usernames: Record<string, string>;
@@ -28,45 +35,43 @@ class AlmightyNan {
 }
 ```
 
+---
+
 <h1 align="center">
 Languages that I use
-</>
+</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
+  <a href="https://almightynan.cc">
     <img src="https://skillicons.dev/icons?i=js,ts,py,bash,html,css,rust" />
-  </a>
-</p>
-
---- 
-
-<h1 align="center">
-Libraries/frameworks
-  <br>
-</>
-
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,express,postgres,prisma" />
   </a>
 </p>
 
 ---
 
 <h1 align="center">
-Skills
-  <br>
-</>
+Frameworks/libraries
+</h1>
 
 <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,grafana,mongo,firebase,,git" />
+  <a href="https://almightynan.cc">
+    <img src="https://skillicons.dev/icons?i=react,next,vue,tailwind,express,postgres,prisma" />
   </a>
 </p>
 
-## GitHub Analytics
-<div>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=AlmightyNan&theme=dark&show_icons=true&count_private=true">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AlmightyNan&theme=dark&layout=compact&langs_count=5">
+---
+<h1 align="center">
+Languages that I use
+</h1>
+
+<p align="center">
+  <a href="https://almightynan.cc">
+    <img src="https://skillicons.dev/icons?i=nodejs,grafana,mongo,firebase,git" />
+  </a>
+</p>
+
+---
+
+<div align='center'>
+  <img height="180em" src="https://streak-stats.demolab.com?user=AlmightyNan&theme=dark">
 </div>
