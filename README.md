@@ -26,6 +26,7 @@ class AlmightyNan {
 
 <h1 align="center">
 Languages that I use
+  <br>
 </>
 
 <p align="center">
@@ -36,6 +37,7 @@ Languages that I use
 
 <h1 align="center">
 Libraries/frameworks
+  <br>
 </>
 
 <p align="center">
@@ -46,6 +48,7 @@ Libraries/frameworks
 
 <h1 align="center">
 Skills
+  <br>
 </>
 
 <p align="center">
