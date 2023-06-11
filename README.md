@@ -1,4 +1,4 @@
-[![Hello, world!](https://readme-typing-svg.demolab.com?font=Consola&pause=900&color=00F754&center=true&vCenter=true&multiline=true&repeat=false&width=435&lines=Hello+world!+I'm+AlmightyNan)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F764&center=true&vCenter=true&repeat=false&width=435&lines=Hello+world!+I'm+AlmightyNan.)](https://git.io/typing-svg)
 
 ```ts
 class AlmightyNan {
