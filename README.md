@@ -1,4 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F764&center=true&vCenter=true&repeat=false&width=435&lines=Hello+world!+I'm+AlmightyNan.)](https://git.io/typing-svg)
+<p align="center">
+  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F764&center=true&vCenter=true&repeat=false&width=435&lines=Hello+world!+I'm+AlmightyNan.)](https://almightynan.cc)
+</p>
 
 ```ts
 class AlmightyNan {
