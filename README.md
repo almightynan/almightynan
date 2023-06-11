@@ -1,5 +1,7 @@
 <p align="center">
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F764&center=true&vCenter=true&repeat=false&width=435&lines=Hello+world!+I'm+AlmightyNan.)](https://almightynan.cc)
+  <a href='https://almightynan.cc'>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00F764&center=true&vCenter=true&repeat=false&width=435&lines=Hello+world!+I'm+AlmightyNan."/>
+  </a>
 </p>
 
 ```ts
