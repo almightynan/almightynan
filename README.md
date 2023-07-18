@@ -7,7 +7,7 @@
 ---
 
 <p align='center'>
-  I'm a backend developer & currently learning about Web3 features. I also develop Discord bots sometimes, you can DM me AlmightyNan#0608 on Discord.
+  Backend developer. I also develop Discord bots, you can DM me **@almightynan** on Discord.
   Currently working on Harmony. A discord bot which can redefine your music experience on Discord.
 </p>
   
