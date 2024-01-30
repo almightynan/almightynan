@@ -1,14 +1,13 @@
 <p align="center">
   <a href='https://almightynan.cc'>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F764&center=true&vCenter=true&repeat=false&width=435&lines=Hello+world!+I'm+AlmightyNan."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F764&center=true&vCenter=true&repeat=false&width=435&lines=Hi.+I'm+AlmightyNan."/>
   </a>
 </p>
 
 ---
 
 <p align='center'>
-  Backend developer. I also develop Discord bots, you can DM me **@almightynan** on Discord.
-  Currently working on Harmony. A discord bot which can redefine your music experience on Discord.
+  Student / Backend developer.
 </p>
   
 ```ts
@@ -24,7 +23,7 @@ class AlmightyNan {
 
   constructor() {
     this.usernames = ['AlmightyNan', 'a1mightynan'];
-    this.age = 16;
+    this.age = 17;
     this.occupation = ['Student', 'Developer']
     this.mostUsedLanguages = ['JavaScript', 'TypeScript', 'Python', 'Bash', 'HTML'];
     this.frameworks = ['React', 'Next.js', 'Vue.js'];
