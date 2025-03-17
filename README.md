@@ -10,7 +10,10 @@
 <h2 align="center">currently listening on spotify !<br></br></h2>
 
 <div align="center" style="background-color: black;">
-<img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=knik70glitv30ikle6x0cyqpc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f" height="130" width=500 alt="Spotify Profile" /> 
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=knik70glitv30ikle6x0cyqpc&redirect=true">
+    <img src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=knik70glitv30ikle6x0cyqpc&cover_image=true&theme=natemoo-re&show_offline=false&background_color=121212&interchange=true&bar_color_cover=true&bar_color=53b14f" height="130" width="500" alt="Spotify Profile"/>
+</a>
+
 </div>
 
 <br></br>
