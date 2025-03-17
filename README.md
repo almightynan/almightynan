@@ -10,11 +10,8 @@
 <h2 align="center">now playing on spotify<br></br></h2>
 
 <div align="center" style="background-color: black;">
-
-
 <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=knik70glitv30ikle6x0cyqpc&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=3f1d67&bar_color_cover=false" height="130" width=500 alt="Spotify Profile" /> 
 </div>
-
 
 <br></br>
 
