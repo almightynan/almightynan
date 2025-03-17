@@ -6,11 +6,13 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=almightynan&theme=dark" height="150" alt="streak stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=almightynan&locale=en&layout=compact&card_width=320&langs_count=7&theme=dark" height="150" alt="languages graph" />
 </div>
-
-<h2 align="center"><br></br></h2>
+<br><br>
+<h2 align="center">now playing on spotify<br></br></h2>
 
 <div align="center" style="background-color: black;">
-  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=knik70glitv30ikle6x0cyqpc&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false" height="130" alt="Spotify Profile" />
+
+
+<img src="https://spotify-github-profile.kittinanx.com/api/view?uid=knik70glitv30ikle6x0cyqpc&cover_image=true&theme=natemoo-re&show_offline=true&background_color=000000&interchange=true&bar_color=3f1d67&bar_color_cover=false" height="130" width=500 alt="Spotify Profile" /> 
 </div>
 
 
